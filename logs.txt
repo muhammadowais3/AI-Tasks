@@ -1,0 +1,247 @@
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 10 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 10 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 202
+INFO:duckduckgo_search.DDGS:Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+ERROR:root:Error during analysis: 1 validation error for ChatOpenAI
+  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Gathers documents using Arxiv and DuckDuckGo: {'topic': 'AI in Climate Modeling', 'objectives': ['Define key terms in AI in Climate Modeling', 'Survey recent papers related to AI in Climate Modeling', 'Compare approaches and summarize insights']}
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:Gathered 2 documents
+INFO:root:Summarizes and analyzes documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Gathers documents using Arxiv and DuckDuckGo: {'topic': 'AI in Climate Modeling', 'objectives': ['Define key terms in AI in Climate Modeling', 'Survey recent papers related to AI in Climate Modeling', 'Compare approaches and summarize insights']}
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Got first page: 100 of 2619065 total results
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:Gathered 2 documents
+INFO:root:Summarizes and analyzes documents
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Analyzed 2 documents
+INFO:root:Report written successfully.
+INFO:root:Planning research for: AI in Climate Modeling
+INFO:root:Gathers documents using Arxiv and DuckDuckGo: {'topic': 'AI in Climate Modeling', 'objectives': ['Define key terms in AI in Climate Modeling', 'Survey recent papers related to AI in Climate Modeling', 'Compare approaches and summarize insights']}
+INFO:arxiv:Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Requesting page (first: True, try: 1): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Requesting page (first: True, try: 2): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+INFO:arxiv:Requesting page (first: True, try: 3): https://export.arxiv.org/api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+ERROR:root:Error during gathering: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=AI+in+Climate+Modeling&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=100 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+ERROR:root:Final failure: Unknown error
